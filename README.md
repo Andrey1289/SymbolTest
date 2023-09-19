@@ -30,6 +30,6 @@ GET http://localhost:8081/api/v1/count/string?inputString=aabbbcccc
 Документирование осуществлено с помощью Swagger
 на запущеном сервере в браузере пишем: http://localhost:YourServerPort/swagger-ui
 откуроется документация
-<h3 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h3 align="center">Hi there, I'm Andrey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 
