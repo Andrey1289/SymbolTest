@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Andrey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-REST API для вычисления частоты символов в строке
+#REST API для вычисления частоты символов в строке
 Этот REST API предоставляет возможность вычислить частоту встречи символов в заданной строке и вернуть результат, отсортированный по убыванию количества вхождений символов.
 
 Формат входящей строки
